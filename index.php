@@ -36,3 +36,5 @@ $frase_lenght = strlen($frase_censurata);
 // stampo la lunghezza della frase;
 echo '<br/><br/>Lunghezza frase: ' . $frase_lenght . ' caratteri';
 ?>
+
+<!-- prova creazione git repo con linux -->
